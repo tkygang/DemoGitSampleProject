@@ -14,6 +14,8 @@ public class DemoSample {
 			
 			System.out.println("Old String : "+s);
 			System.out.println("New String : "+s2+"$"+s3+"$$"+s4);
+			
+			System.out.println("b1");
 		
 			}
 	}
